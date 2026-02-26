@@ -10,6 +10,6 @@ Sinon tu peux importer dans la session de to terminal seulement avec . ./<ton mm
 
 Pour faire du Living of the Land : https://lolbas-project.github.io/
 
-Pour les commandes AD : https://wadcoms.github.io/#getad ou https://swisskyrepo.github.io/InternalAllTheThings/
+Pour les commandes AD : https://wadcoms.github.io/#getad, https://github.com/Tib3rius/Active-Directory-Exploitation-Cheat-Sheet ou https://swisskyrepo.github.io/InternalAllTheThings/
 
 Pour BloodHound copie les commandes de Install BloodHound.txt
