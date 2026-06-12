@@ -1,5 +1,7 @@
 # Camp-de-base-Windows
 
+**Toutes les imgaes sont des zip chiffré avec le mot de passe: toto1234**
+
 Tous les tools dont tu as besoin en TI Interne !
 
 **Attention a bien désactiver ton AV ou à créer un dossier d'exclusion sinon les tools seront flag !**
